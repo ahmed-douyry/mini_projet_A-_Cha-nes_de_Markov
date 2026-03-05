@@ -1,0 +1,10 @@
+grid,algo,success,cost,expansions,open_max,elapsed_ms
+easy,UCS,True,18.0,94,10,0.3253760005463846
+easy,Greedy,True,18.0,18,17,0.07993500003067311
+easy,A*,True,18.0,94,10,0.35675400067702867
+medium,UCS,True,22.0,123,11,0.8293800001411
+medium,Greedy,True,22.0,22,21,0.1591219997862936
+medium,A*,True,22.0,113,11,0.74622099964472
+hard,UCS,False,inf,70,8,0.4880599999523838
+hard,Greedy,False,inf,70,14,0.47348499992949655
+hard,A*,False,inf,70,8,0.4732039997179527
