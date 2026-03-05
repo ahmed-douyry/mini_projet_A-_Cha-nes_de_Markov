@@ -6,13 +6,11 @@
 
 ## 📽️ Démo vidéo
 
-<p align="center">
-  <video src="mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm" width="700" controls>
-    Votre navigateur ne supporte pas la balise vidéo. <a href="mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm">Télécharger la vidéo</a>.
-  </video>
-</p>
+![Démo de l'application](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)
 
-> **▶️ [Cliquez ici pour voir la démo](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** — L'application GUI en action : édition de grille, exécution pas-à-pas de A\*, construction de la chaîne de Markov, visualisation du heatmap de π(n) et simulation Monte Carlo.
+*L'application GUI en action : édition de grille interactive, exécution pas-à-pas de A\*, construction de la chaîne de Markov, visualisation du heatmap de π(n) et simulation Monte Carlo avec graphiques temps réel.*
+
+**📁 [Fichier vidéo local](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** (si l'aperçu ne s'affiche pas)
 
 ---
 
