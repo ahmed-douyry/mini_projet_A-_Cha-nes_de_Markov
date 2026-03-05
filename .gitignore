@@ -1,0 +1,35 @@
+# ─── Environnements virtuels Python ───
+venv/
+.venv/
+env/
+.env/
+
+# ─── Cache Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ─── Distribution / Build ───
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ─── Jupyter Notebook checkpoints ───
+.ipynb_checkpoints/
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Divers ───
+*.log
