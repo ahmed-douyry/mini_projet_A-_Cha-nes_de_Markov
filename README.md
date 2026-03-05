@@ -6,14 +6,13 @@
 
 ## 📽️ Démo vidéo
 
-<video width="700" controls>
-  <source src="https://github.com/ahmed-douyry/mini_projet_A-_Cha-nes_de_Markov/raw/main/mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm" type="video/webm">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+![Démo de l'application GUI](mini_projet_astar_markov_gui_v3_full/video/demo_gui.gif)
 
 *L'application GUI en action : édition de grille interactive, exécution pas-à-pas de A\*, construction de la chaîne de Markov, visualisation du heatmap de π(n) et simulation Monte Carlo avec graphiques temps réel.*
 
-**📁 [Télécharger la vidéo](https://github.com/ahmed-douyry/mini_projet_A-_Cha-nes_de_Markov/raw/main/mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** (166 Ko)
+**🎬 Autres formats :**
+- **[MP4](mini_projet_astar_markov_gui_v3_full/video/demo_gui.mp4)** (648 Ko, haute qualité)
+- **[WebM](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** (166 Ko, original)
 
 ---
 
