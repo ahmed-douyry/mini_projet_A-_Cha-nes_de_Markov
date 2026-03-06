@@ -11,8 +11,8 @@
 *L'application GUI en action : édition de grille interactive, exécution pas-à-pas de A\*, construction de la chaîne de Markov, visualisation du heatmap de π(n) et simulation Monte Carlo avec graphiques temps réel.*
 
 **🎬 Autres formats :**
-- **[MP4](mini_projet_astar_markov_gui_v3_full/video/demo_gui.mp4)** (648 Ko, haute qualité)
-- **[WebM](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** (166 Ko, original)
+- **[MP4](mini_projet_astar_markov_gui_v3_full/video/demo_gui.mp4)** (1.4 Mo, haute qualité)
+- **[WebM](mini_projet_astar_markov_gui_v3_full/video/demo_gui.webm)** (597 Ko, original)
 
 ---
 
